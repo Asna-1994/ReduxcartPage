@@ -9,7 +9,11 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import RootLayout from './components/RootLayout.jsx';
-import CartItems from './components/cart/cartItems.jsx';
+import CartItems from './components/cart/CartItrms.jsx';
+
+
+
+
 
 const router = createBrowserRouter([
   {
